@@ -2,7 +2,7 @@
 <img src="./src/assistant.jpg" width="140" height="140"/>
 </p>
 <p align="center">
-<a href="#"><img title="NyanBot" src="https://img.shields.io/badge/🐬𝑵𝒚𝒂𝒏𝑩𝒐𝒕 "></a>
+<a href="#"><img title="NyanBot"></a>
 </p>
 <p align="center">
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue?colorA=%23ff0000&colorB=%230000ff&style=for-the-badge"</a>
